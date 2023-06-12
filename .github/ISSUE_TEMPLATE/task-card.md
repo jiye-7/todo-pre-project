@@ -1,5 +1,5 @@
 ---
-name: 'Issue: Issue Task Card'
+name: Task Card
 about: Task 설명
 title: ''
 labels: feature
